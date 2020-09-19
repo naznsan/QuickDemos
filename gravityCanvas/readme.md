@@ -1,6 +1,8 @@
 # gravityCanvas
 A canvas that is affected by gravity, in vanilla JS
 
+Download files and open `index.html` in a browser
+
 ## Versions
 ### v0.2
 Added constant gravity
