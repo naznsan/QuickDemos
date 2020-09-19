@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.controls {
+    margin-left: 3px;
+    display: flex;
+    flex-direction: column;
+}
