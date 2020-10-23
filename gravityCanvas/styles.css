@@ -8,3 +8,11 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+button {
+    margin-bottom: 3px;
+}
+
+#clearCanvas {
+    margin-top: 50px;
+}
