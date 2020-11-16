@@ -1,0 +1,70 @@
+html, body {
+  margin: 0;
+  border: 0;
+  font-family: "Noto Sans KR", sans-serif;
+  background-color: #F2F1EF;
+}
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  height: 3em;
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0.1em;
+  padding-bottom: 0.5em;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.search {
+  display: flex;
+  flex-direction: row;
+}
+
+#landing {
+  border: 1px solid black;
+  width: 60%;
+  margin: 20em auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#landing-message {
+  font-weight: 900;
+  font-size: 3em;
+}
+
+#stats {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: white;
+  padding: 2em;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.periwinkle {
+  color: #CCCCFF;
+  font-size: 1.5em;
+  font-weight: 900;
+}
